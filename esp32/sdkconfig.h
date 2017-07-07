@@ -108,3 +108,6 @@
 
 #define CONFIG_TOOLPREFIX "xtensa-esp32-elf-"
 #define CONFIG_PYTHON "python2"
+
+#define CONFIG_IPC_TASK_STACK_SIZE 2048
+
